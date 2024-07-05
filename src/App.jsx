@@ -12,7 +12,7 @@ const App = () => {
   return (
     <BrowserRouter>
       <Container fluid>
-        <h2 className="title">Manage Books and Authors</h2>
+        <h2 className="title">Library Management System</h2>
         <hr className="title_hr" />
         <Row>
           <Col className="col-md-2">
